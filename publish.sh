@@ -11,10 +11,10 @@ make $FORMATS && \
     cp -r $HTML/* . && \
     find . -type f -exec sed -i 's/_static/static/g' {} \; && \
     find . -type f -exec sed -i 's/_source/source/g' {} \; && \
-    # find . -type f -exec sed -i 's/_images/images/g' {} \; && \
+    find . -type f -exec sed -i 's/_images/images/g' {} \; && \
     rm -rf static && mv _static static && \
     rm -rf sources && mv _sources sources && \
-    # rm -rf images && mv _images images && \
+    rm -rf images && mv _images images && \
     rm -rf _* && \
     $GIT add . --all && \
     $GIT commit -a -m "Update content for GH pages." && \

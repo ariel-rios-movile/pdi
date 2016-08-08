@@ -34,5 +34,14 @@ Target date
 
 05/11/2016
 
+Plan
+----
+
+From 2016-08-08 to 2016-08-15: Initial meetings to establish objectives
+  Have a meeting with Comercial, Financial & Media to understand used
+  management techniques.
+
 Progress
 --------
+
+* TODO

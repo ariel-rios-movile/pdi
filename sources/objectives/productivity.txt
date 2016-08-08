@@ -33,5 +33,15 @@ Target date
 
 05/10/2016
 
+Plan
+----
+
+From 2016-08-08 to 2016-08-15: initial meetings to establish expectations
+  - Establish points to communicate to team and future.
+  - Have a meeting with the team to communicate key points and next steps to
+    take.
+
 Progress
 --------
+
+* TODO

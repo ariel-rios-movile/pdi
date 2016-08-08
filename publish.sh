@@ -9,10 +9,10 @@ FORMATS="html"
 make $FORMATS && \
     $GIT checkout $PAGES && \
     cp -r $HTML/* . && \
-    # find . -type f -exec sed -i 's/_static/static/g' {} \; && \
+    find . -type f -exec sed -i 's/_static/static/g' {} \; && \
     find . -type f -exec sed -i 's/_source/source/g' {} \; && \
     # find . -type f -exec sed -i 's/_images/images/g' {} \; && \
-    # rm -rf static && mv _static static && \
+    rm -rf static && mv _static static && \
     rm -rf sources && mv _sources sources && \
     # rm -rf images && mv _images images && \
     rm -rf _* && \

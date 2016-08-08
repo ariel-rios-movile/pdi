@@ -32,5 +32,17 @@ Target date
 
 05/09/2016
 
+Plan
+----
+
+From 2016-08-08 to 2016-08-15: initial contact meeting
+  Have initial meetings with peripheral teams:
+
+  - 2016-08-10: Financial
+  - 2016-08-11: Midia
+  - 2016-08-12: Comercial + Product
+
 Progress
 --------
+
+* TODO

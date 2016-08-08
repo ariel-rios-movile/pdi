@@ -14,4 +14,4 @@ Contents:
    references
    matrix
    introspection
-   objectives
+   objectives/index

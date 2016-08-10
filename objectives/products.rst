@@ -35,12 +35,19 @@ Target date
 Plan
 ----
 
-From 2016-08-08 to 2016-08-15: found information sources
+**From 2016-08-08 to 2016-08-15: found information sources**
   - Search blogs, books & any other information source to use as daily feed.
+    **DONE** (2016-08-10)
   - Talk to Joca Neto to define minimum analytics reports for each future
-    (current) project.
+    (current) project. **IN PROGRESS**
 
 Progress
 --------
 
-* TODO
+* 2016-08-10:
+  
+  - I've created a Feedly collection with multiple web blogs and magazines for
+    my every day reading.
+
+  - I've created a meeting with Joca Neto for 2016-08-11T14:00 AR to talk about
+    base analytics configurations for every web/mobile project.

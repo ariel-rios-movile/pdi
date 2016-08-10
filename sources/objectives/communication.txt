@@ -35,7 +35,7 @@ Target date
 Plan
 ----
 
-From 2016-08-08 to 2016-08-15: initial contact meeting
+**From 2016-08-08 to 2016-08-15: initial contact meeting**
   Have initial meetings with peripheral teams:
 
   - 2016-08-10: Financial
@@ -45,4 +45,12 @@ From 2016-08-08 to 2016-08-15: initial contact meeting
 Progress
 --------
 
-* TODO
+* 2016-08-10:
+  
+  - Created a meeting at 2016-08-11T14:00 with Gabriela Simonassi to talk about
+    how Financial team sees IT team and how we could collaborate with that
+    team.
+
+  - Created a meeting at 2016-08-11T17:00 with Carolina Falcone & Franco
+    Maffasanti to talk about needs outside Release sprint and how they manage
+    their current projects.

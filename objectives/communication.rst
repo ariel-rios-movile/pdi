@@ -45,12 +45,14 @@ Plan
 Progress
 --------
 
-* 2016-08-10:
-  
+**2016-08-10**
   - Created a meeting at 2016-08-11T14:00 with Gabriela Simonassi to talk about
     how Financial team sees IT team and how we could collaborate with that
     team.
-
   - Created a meeting at 2016-08-11T17:00 with Carolina Falcone & Franco
     Maffasanti to talk about needs outside Release sprint and how they manage
     their current projects.
+
+**2016-08-11**
+  - Had a meeting with both teams; a lot of data to process. Agreed new
+    meetings next week.

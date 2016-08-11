@@ -44,10 +44,12 @@ Plan
 Progress
 --------
 
-* 2016-08-10:
-  
+**2016-08-10**
   - I've created a Feedly collection with multiple web blogs and magazines for
     my every day reading.
-
   - I've created a meeting with Joca Neto for 2016-08-11T14:00 AR to talk about
     base analytics configurations for every web/mobile project.
+    
+**2016-08-11**
+  - Meeting with Joca Neto could not be done, since he was not available.
+    Tomorrow will try to contact him to re-schedule it.

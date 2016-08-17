@@ -37,11 +37,14 @@ Target date
 Plan
 ----
 
-From 2016-08-08 to 2016-08-15: Initial meetings to establish objectives
+**From 2016-08-08 to 2016-08-15: Initial meetings to establish objectives**
   Have a meeting with Comercial, Financial & Media to understand used
-  management techniques.
+  management techniques. **FAILED :(**
 
 Progress
 --------
 
-* TODO
+**2016-08-11**
+  Meeting with Financial team leader Gabriela Simonassi. They don't use a
+  particular project management job on each project as we do, since they don't
+  have that kind of inner separation.

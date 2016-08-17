@@ -37,9 +37,13 @@ Plan
 
 **From 2016-08-08 to 2016-08-15: found information sources**
   - Search blogs, books & any other information source to use as daily feed.
-    **DONE** (2016-08-10)
+    **DONE**
   - Talk to Joca Neto to define minimum analytics reports for each future
-    (current) project. **IN PROGRESS**
+    (current) project. **FAILED :(**
+
+**From 2016-08-16 to 2016-08-22: found information sources**
+  - Talk to Joca Neto to define minimum analytics reports for each future
+    (current) project.
 
 Progress
 --------

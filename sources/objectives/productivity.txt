@@ -37,11 +37,20 @@ Plan
 ----
 
 From 2016-08-08 to 2016-08-15: initial meetings to establish expectations
-  - Establish points to communicate to team and future.
+  - Establish points to communicate to team and future. **FAILED**
+  - Have a meeting with the team to communicate key points and next steps to
+    take. **FAILED**
+
+From 2016-08-16 to 2016-08-22: initial meetings to establish expectations
+  - Establish points to communicate to team and future. **DONE**
   - Have a meeting with the team to communicate key points and next steps to
     take.
+
 
 Progress
 --------
 
-* TODO
+**2016-08-16**
+  * Created a `meeting detail`_ for next Friday 19.
+
+.. _`meeting detail`: http://movile.github.io/sc-developers-guide/meetings/20160819-About-the-future.html

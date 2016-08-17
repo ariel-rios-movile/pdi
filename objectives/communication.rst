@@ -38,9 +38,20 @@ Plan
 **From 2016-08-08 to 2016-08-15: initial contact meeting**
   Have initial meetings with peripheral teams:
 
-  - 2016-08-10: Financial
-  - 2016-08-11: Midia
-  - 2016-08-12: Comercial + Product
+  - 2016-08-10: Financial **DONE**
+  - 2016-08-11: Midia **DONE***
+  - 2016-08-12: Comercial + Product **FAILED :(**
+
+**From 2016-08-16 to 2016-08-22: initial contact meeting & problem profile**
+  Have initial meetings with peripheral teams:
+
+  - 2016-08-19: Comercial + Product
+
+  Profile possible problem on teams:
+
+  - ?: Midia
+  - ?: Financial
+
 
 Progress
 --------
@@ -55,4 +66,4 @@ Progress
 
 **2016-08-11**
   - Had a meeting with both teams; a lot of data to process. Agreed new
-    meetings next week.
+    meetings next week. 1 possible problem identified on both of them.

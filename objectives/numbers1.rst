@@ -33,7 +33,11 @@ Target  date
 Plan
 ----
 
-From 2016-08-08 to 2106-08-25: collect diverse statistical tools
+From 2016-08-08 to 2106-08-15: collect diverse statistical tools
+  Talk to Renato Carneiro to get a list of diverse tools to use and in which
+  context are they useful, if there are multiples. **FAILED :(**
+
+From 2016-08-16 to 2106-08-22: collect diverse statistical tools
   Talk to Renato Carneiro to get a list of diverse tools to use and in which
   context are they useful, if there are multiples.
 

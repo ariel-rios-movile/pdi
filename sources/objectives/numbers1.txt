@@ -53,8 +53,11 @@ Progress
   how is it going with the new enterprise adquisition.
 
 **2016-08-24**
-  I've talked Renato but he's on holidays. Wilson Affonso told me that BI
-  responsible is Igor Alves. He also told me that Eric García had a meeting
-  with them; maybe an initial approach can be done with him. Renato Carneiro &
-  Rafael Meirelles are both in RA, so he would be the next person in the
-  command chain to bother about it.
+  * I've talked Renato but he's on holidays. Wilson Affonso told me that BI
+    responsible is Igor Alves. He also told me that Eric García had a meeting
+    with them; maybe an initial approach can be done with him. Renato Carneiro
+    & Rafael Meirelles are both in RA, so he would be the next person in the
+    command chain to bother about it.
+
+  * I've just created a meeting with Eric to review analytics tools inside
+    Movile in order to follow billing on products.

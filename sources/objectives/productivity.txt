@@ -36,21 +36,32 @@ Target date
 Plan
 ----
 
-From 2016-08-08 to 2016-08-15: initial meetings to establish expectations
+**From 2016-08-08 to 2016-08-15: initial meetings to establish expectations**
   - Establish points to communicate to team and future. **FAILED**
   - Have a meeting with the team to communicate key points and next steps to
     take. **FAILED**
 
-From 2016-08-16 to 2016-08-22: initial meetings to establish expectations
+**From 2016-08-16 to 2016-08-22: initial meetings to establish expectations**
   - Establish points to communicate to team and future. **DONE**
   - Have a meeting with the team to communicate key points and next steps to
-    take.
+    take. **PARTIALLY DONE**
 
+**From 2016-08-23 to 2016-08-29: initial meetings to establish expectations**
+  - Determine the extenal meeting to abord team topics.
+  - Define metrics per developer to track.
 
 Progress
 --------
 
 **2016-08-16**
-  * Created a `meeting detail`_ for next Friday 19.
+  Created a `meeting detail`_ for next Friday 19.
+
+**2016-08-19**
+  Meeting was partially completed: just one topic point was discussed. The
+  notion was that all topics cannot be faced in a single hour and the team was
+  incomplete (Agustina Biscayart was in her hollidays). I talked to Carola
+  Rimoldi about taking the team to an external event in an isolated location,
+  as renting a room in `Urban Station`_.
 
 .. _`meeting detail`: http://movile.github.io/sc-developers-guide/meetings/20160819-About-the-future.html
+.. _`Urban Station`: http://argentina.enjoyurbanstation.com/

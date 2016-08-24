@@ -41,6 +41,10 @@ Plan
   Have a meeting with Comercial, Financial & Media to understand used
   management techniques. **FAILED :(**
 
+**From 2016-08-23 to 2016-08-29: Initial meetings to establish objectives**
+  Have a meeting with Comercial, Financial & Media to understand used
+  management techniques.
+
 Progress
 --------
 

@@ -47,8 +47,12 @@ Plan
     take. **PARTIALLY DONE**
 
 **From 2016-08-23 to 2016-08-29: initial meetings to establish expectations**
-  - Determine the extenal meeting to abord team topics.
-  - Define metrics per developer to track.
+  - Determine the extenal meeting to abord team topics. **FAILED**
+  - Define metrics per developer to track. **FAILED**
+
+**From 2016-08-31 to 2016-09-05: initial meetings to establish expectations**
+  - Determine the extenal meeting to abord team topics. **DONE**
+  - Define metrics per developer to track. **PARTIALLY DONE**
 
 Progress
 --------
@@ -62,6 +66,15 @@ Progress
   incomplete (Agustina Biscayart was in her hollidays). I talked to Carola
   Rimoldi about taking the team to an external event in an isolated location,
   as renting a room in `Urban Station`_.
+
+**2016-08-31**
+  Have a chat with Rodrigo Miró to aprove renting a room in `Urban Station`_.
+
+**2016-09-01**
+  Defined developers metrics to use (need to concensuate).
+
+**2016-09-02**  
+  Sent meeting details to talk about in there, price and rent requirements.
 
 .. _`meeting detail`: http://movile.github.io/sc-developers-guide/meetings/20160819-About-the-future.html
 .. _`Urban Station`: http://argentina.enjoyurbanstation.com/

@@ -39,11 +39,14 @@ Plan
 
 **From 2016-08-08 to 2016-08-15: Initial meetings to establish objectives**
   Have a meeting with Comercial, Financial & Media to understand used
-  management techniques. **FAILED :(**
+  management techniques. **DONE**
 
-**From 2016-08-23 to 2016-08-29: Initial meetings to establish objectives**
-  Have a meeting with Comercial, Financial & Media to understand used
-  management techniques.
+**From 2016-08-23 to 2016-08-29: Tactical movements**
+  Meeting with Gabriela Simonasi to find where IT team can reduce costs.
+  **FAILED**
+
+**From 2016-08-30 to 2016-09-05: Tactical movements**
+  Meeting with Gabriela Simonasi to find where IT team can reduce costs.
 
 Progress
 --------

@@ -55,13 +55,25 @@ Plan
 **From 2016-08-23 to 2016-08-29: initial contact meeting & problem profile**
   Have initial meetings with peripheral teams:
 
-  - 2016-08-25T15:00: Product
-  - 2016-08-26T16:00: Comercial
+  - 2016-08-25T15:00: Product **FAILED**
+  - 2016-08-26T16:00: Comercial **FAILED**
 
   Profile possible problem on teams:
 
-  - 2016-08-25T15:00: Midia
-  - 2016-08-26T11:00: Financial
+  - 2016-08-25T15:00: Midia **FAILED**
+  - 2016-08-26T11:00: Financial **FAILED**
+
+**From 2016-08-30 to 2016-09-05: initial contact meeting & problem profile**
+  Have initial meetings with peripheral teams:
+
+  - 2016-09-02T10:00: Comercial
+  - 2016-09-02T11:00: Product
+
+  Profile possible problem on teams:
+
+  - 2016-08-25T15:00: Midia **DONE**
+  - 2016-08-26T11:00: Financial **FAILED**
+
 
 Progress
 --------
@@ -75,9 +87,28 @@ Progress
     their current projects.
 
 **2016-08-11**
-  - Had a meeting with both teams; a lot of data to process. Agreed new
-    meetings next week. 1 possible problem identified on both of them.
+  Had a meeting with both teams; a lot of data to process. Agreed new meetings
+  next week. 1 possible problem identified on both of them.
 
 **2016-08-22**  
-  - Went out with Carolina Falcone and talked about work, inner relations,
-    perspectives & points of view.
+  Went out with Carolina Falcone and talked about work, inner relations,
+  perspectives & points of view.
+
+**2016-08-30**
+  Meet with Franco Maffasanti and talked about current Media problems and how
+  IT could help. Leave meeting with following TODOs:
+
+  #. Check for an automatic ROI report tool on BI side. Since ROI is the most
+     important KPI for Media team and the must do it manually, it will boost
+     productivity.
+  #. Contact Renato Carneiro to know how error reporting flow must be applied
+     for new discrepances found in *dstrategy* tool.
+  #. Choose an open source adserver and test it on a development environment.
+
+**2016-08-31**
+  Product meeting suspended by a GirzUp notification problem; rescheduled to
+  2016-09-02T11:00.
+
+**2016-09-01**
+  Comercial meeting suspended by a Sebastian's BlueJeans conference;
+  rescheduled to 2016-09-02T10:00.

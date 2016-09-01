@@ -71,7 +71,8 @@ Progress
   Have a chat with Rodrigo Miró to aprove renting a room in `Urban Station`_.
 
 **2016-09-01**
-  Defined developers metrics to use (need to concensuate).
+  Developers metrics to use needs to be consensuated; this particular objective
+  is **abandoned**.
 
 **2016-09-02**  
   Sent meeting details to talk about in there, price and rent requirements.

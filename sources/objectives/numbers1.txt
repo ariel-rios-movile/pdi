@@ -42,7 +42,11 @@ Plan
   context are they useful, if there are multiples. **FAILED :(**
 
 **From 2016-08-23 to 2106-08-29: collect diverse statistical tools**
-  Talk to Renato Carneiro to get a list of diverse tools to use and in which
+  Talk to Eric García to get a list of diverse tools to use and in which
+  context are they useful, if there are multiples. **FAILED :(**
+
+**From 2016-08-30 to 2106-09-05: collect diverse statistical tools**
+  Talk to Eric García to get a list of diverse tools to use and in which
   context are they useful, if there are multiples.
 
 Progress
@@ -61,3 +65,6 @@ Progress
 
   * I've just created a meeting with Eric to review analytics tools inside
     Movile in order to follow billing on products.
+
+**2016-08-30**
+  Meeting was cancelled due to Entel CL migration support.

@@ -32,7 +32,10 @@ proyecto:
 Target date
 -----------
 
-05/11/2016
+.. raw:: html
+   
+   <p><strike>2016-11-05</strike></p>
+   <p>2016-11-20</p>
 
 Plan
 ----
@@ -55,3 +58,6 @@ Progress
   Meeting with Financial team leader Gabriela Simonassi. They don't use a
   particular project management job on each project as we do, since they don't
   have that kind of inner separation.
+
+**2016-09-19**
+  Re-scheduled due date for hollidays.

@@ -10,8 +10,8 @@ Aspect
 Organizational goals
 --------------------
 
-- Equipos de alta performance.
-- Clientes encantados.
+- High performance teams.
+- Happy customers.
 
 Actions
 -------
@@ -30,7 +30,10 @@ externo.
 Target date
 -----------
 
-05/09/2016
+.. raw:: html
+
+   <p><strike>2016-09-05</strike></p>
+   <p>2016-09-20</p>
 
 Plan
 ----
@@ -112,3 +115,6 @@ Progress
 **2016-09-01**
   Comercial meeting suspended by a Sebastian's BlueJeans conference;
   rescheduled to 2016-09-02T10:00.
+
+**2016-09-19**
+  Re-scheduled due date for hollidays.

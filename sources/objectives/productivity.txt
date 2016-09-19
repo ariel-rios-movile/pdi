@@ -31,7 +31,10 @@ Envío de reporte de desempeño por cada mes.
 Target date
 -----------
 
-05/10/2016
+.. raw:: html
+
+   <p><strike>2016-10-05</strike></p>
+   <p>2016-10-20</p>
 
 Plan
 ----
@@ -76,6 +79,9 @@ Progress
 
 **2016-09-02**  
   Sent meeting details to talk about in there, price and rent requirements.
+
+**2016-09-19**
+  Re-scheduled due date for hollidays.
 
 .. _`meeting detail`: http://movile.github.io/sc-developers-guide/meetings/20160819-About-the-future.html
 .. _`Urban Station`: http://argentina.enjoyurbanstation.com/

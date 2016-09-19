@@ -28,7 +28,11 @@ Measurement
 
 Target  date
 ------------
-05/10/2016
+
+.. raw:: html
+   
+   <p><strike>2016-10-05</strike></p>
+   <p>2016-10-20</p>
 
 Plan
 ----
@@ -68,3 +72,6 @@ Progress
 
 **2016-08-30**
   Meeting was cancelled due to Entel CL migration support.
+
+**2016-09-19**
+  Re-scheduled due date for hollidays.

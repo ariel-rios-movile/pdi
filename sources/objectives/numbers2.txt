@@ -50,6 +50,7 @@ Plan
 
 **From 2016-08-30 to 2016-09-05: Tactical movements**
   Meeting with Gabriela Simonasi to find where IT team can reduce costs.
+  **FAILED**
 
 Progress
 --------

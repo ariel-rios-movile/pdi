@@ -69,14 +69,23 @@ Plan
 **From 2016-08-30 to 2016-09-05: initial contact meeting & problem profile**
   Have initial meetings with peripheral teams:
 
-  - 2016-09-02T10:00: Comercial
-  - 2016-09-02T11:00: Product
+  - 2016-09-02T10:00: Comercial **FAILED**
+  - 2016-09-02T11:00: Product **FAILED**
 
   Profile possible problem on teams:
 
   - 2016-08-25T15:00: Midia **DONE**
   - 2016-08-26T11:00: Financial **FAILED**
 
+**From 2016-09-20 to 2016-09-26: initial contact meeting & problem profile**
+  Have initial meetings with peripheral teams:
+
+  - 2016-09-22T16:00: Product
+  - 2016-09-22T17:00: Comercial
+
+  Profile possible problem on teams:
+
+  - 2016-09-23T15:00: Financial
 
 Progress
 --------
@@ -117,4 +126,5 @@ Progress
   rescheduled to 2016-09-02T10:00.
 
 **2016-09-19**
-  Re-scheduled due date for hollidays.
+  - Re-scheduled due date for hollidays.
+  - Scheduled new meetings with peripheral teams.

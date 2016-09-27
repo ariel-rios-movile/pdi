@@ -1,0 +1,37 @@
+Description
+===========
+
+Aspect
+------
+
+Performance
+
+Organizational goals
+--------------------
+
+- Agressive results.
+- High performance teams.
+  
+Actions
+-------
+
+- Crear un manifiesto del equipo, con objetivos claros de qué somos y no
+  somos, así como nuestros deberes.
+- Presentar a los equipos interfaces el SLA del equipo, para que funcione
+  como un contrato entre nuestros clientes.
+- Aplicar seguimiento a los miembros del equipo mediante las referencias del
+  contrato.
+- 1 revisión de desempeño por sprint con cada miembro del equipo.
+
+Measurement
+-----------
+
+Envío de reporte de desempeño por cada mes.
+
+Target date
+-----------
+
+.. raw:: html
+
+   <p><strike>2016-10-05</strike></p>
+   <p>2016-10-20</p>

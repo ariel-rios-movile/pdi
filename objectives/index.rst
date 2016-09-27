@@ -4,8 +4,8 @@ Objectives
 .. toctree::
    :maxdepth: 2
 
-   communication
-   productivity
-   numbers1
-   numbers2
-   products
+   communication/index
+   productivity/index
+   numbers1/index
+   numbers2/index
+   products/index

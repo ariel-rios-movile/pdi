@@ -4,21 +4,14 @@ Plan
 Weekly schedule
 ---------------
 
-**From 2016-08-08 to 2106-08-15: collect diverse statistical tools**
-  Talk to Renato Carneiro to get a list of diverse tools to use and in which
-  context are they useful, if there are multiples. **FAILED :(**
-
-**From 2016-08-16 to 2106-08-22: collect diverse statistical tools**
-  Talk to Renato Carneiro to get a list of diverse tools to use and in which
-  context are they useful, if there are multiples. **FAILED :(**
-
-**From 2016-08-23 to 2106-08-29: collect diverse statistical tools**
-  Talk to Eric García to get a list of diverse tools to use and in which
-  context are they useful, if there are multiples. **FAILED :(**
-
-**From 2016-08-30 to 2106-09-05: collect diverse statistical tools**
-  Talk to Eric García to get a list of diverse tools to use and in which
-  context are they useful, if there are multiples.
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+|                                 | 2016-08-08 - 2016-08-15 | 2016-08-16 - 2016-08-22 | 2016-08-23 - 2016-08-29 | 2016-08-30 - 2016-09-05 |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Talk to Renato Carneiro to get  |                         |                         |                         |                         |
+| a list of diverse tools to use  |                         |                         |                         |                         |
+| and in which context are they   |            ✗            |            ✗            |            ✗            |            ✗            |
+| useful, if there are multiples. |                         |                         |                         |                         |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
 
 Progress
 --------

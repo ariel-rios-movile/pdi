@@ -4,23 +4,22 @@ Plan
 Weekly schedule
 ---------------
 
-**From 2016-08-08 to 2016-08-15: initial meetings to establish expectations**
-  - Establish points to communicate to team and future. **FAILED**
-  - Have a meeting with the team to communicate key points and next steps to
-    take. **FAILED**
-
-**From 2016-08-16 to 2016-08-22: initial meetings to establish expectations**
-  - Establish points to communicate to team and future. **DONE**
-  - Have a meeting with the team to communicate key points and next steps to
-    take. **PARTIALLY DONE**
-
-**From 2016-08-23 to 2016-08-29: initial meetings to establish expectations**
-  - Determine the extenal meeting to abord team topics. **FAILED**
-  - Define metrics per developer to track. **FAILED**
-
-**From 2016-08-31 to 2016-09-05: initial meetings to establish expectations**
-  - Determine the extenal meeting to abord team topics. **DONE**
-  - Define metrics per developer to track. **PARTIALLY DONE**
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+|                                 | 2016-08-08 - 2016-08-15 | 2016-08-16 - 2016-08-22 | 2016-08-23 - 2016-08-29 | 2016-08-30 - 2016-09-05 |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Establish points to communicate |                         |                         |                         |                         |
+| to team and future.             |            ✗            |            ✓            |                         |                         |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Have a meeting with the team to |                         |                         |                         |                         |
+| communicate key points and next |            ✗            |            ✓            |                         |                         |
+| steps to take.                  |                         |                         |                         |                         |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Determine the extenal meeting   |                         |                         |                         |                         |
+| to abord team topics.           |                         |                         |            ✗            |            ✓            |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Define metrics per developer to |                         |                         |                         |                         |
+| track.                          |                         |                         |            ✗            |            ✓            |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
 
 Progress
 --------

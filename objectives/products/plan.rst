@@ -4,15 +4,17 @@ Plan
 Weekly schedule
 ---------------
 
-**From 2016-08-08 to 2016-08-15: found information sources**
-  - Search blogs, books & any other information source to use as daily feed.
-    **DONE**
-  - Talk to Joca Neto to define minimum analytics reports for each future
-    (current) project. **FAILED :(**
-
-**From 2016-08-16 to 2016-08-22: found information sources**
-  - Talk to Joca Neto to define minimum analytics reports for each future
-    (current) project.
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+|                                 | 2016-08-08 - 2016-08-15 | 2016-08-16 - 2016-08-22 | 2016-08-23 - 2016-08-29 | 2016-08-30 - 2016-09-05 |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Search blogs, books & any other |                         |                         |                         |                         |
+| information source to use as    |            ✓            |                         |                         |                         |
+| daily feed.                     |                         |                         |                         |                         |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
+| Talk to Joca Neto to define     |                         |                         |                         |                         |
+| minimum analytics reports for   |            ✗            |            ✗            |            ✗            |            ✓            |
+| each future (current) project.  |                         |                         |                         |                         |
++---------------------------------+-------------------------+-------------------------+-------------------------+-------------------------+
 
 Progress
 --------
